@@ -34,13 +34,8 @@ Here, you create a custom engine agent that uses a language model hosted in Azur
 
 Start with opening the starter project in Visual Studio 2022.
 
-1. Open **Visual Studio 2022**.
-1. In the Visual Studio 2022 welcome dialog, select **Continue without code**.
-1. Open the **File** menu, expand the **Open** menu and select **Project/solution...**.
-1. In the **Open Project/Solution** file picker, on the left hand menu, select **This PC**.
-1. Double click **Local Disk (C:)**.
-1. Navigate to **C:\Users\LabUser\LAB-466-BEGIN** folder.
-1. In the **LAB-466-BEGIN** folder, select **Custom.Engine.Agent.sln**, then select **Open**.
+1. Clone this repository to your machine.
+1. In the **LAB-466-BEGIN** folder, open **Custom.Engine.Agent.sln** to launch Visual Studio.
 
 ### Step 2: Examine the solution
 
